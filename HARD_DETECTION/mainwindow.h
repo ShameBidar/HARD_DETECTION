@@ -15,6 +15,9 @@ public:
     QString str_filesys;
     QString str_dev;
     QString str_mp;
+    QString str_size;
+    QString str_used;
+    QString str_free;
 };
 
 class MainWindow : public QMainWindow
