@@ -14,6 +14,7 @@ class DevModel
 public:
     QString str_filesys;
     QString str_dev;
+    QString str_mp;
 };
 
 class MainWindow : public QMainWindow
